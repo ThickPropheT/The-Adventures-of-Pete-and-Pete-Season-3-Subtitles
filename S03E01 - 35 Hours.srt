@@ -13,12 +13,12 @@ BIG PETE:
 at 1,000 miles an hour,</i>
 
 4
-00:00:08,000 --> 00:00:11,800
+00:00:08,000 --> 00:00:11,730
 <i>the sprinklers clicked on
 at exactly 7:15,</i>
 
 5
-00:00:11,900 --> 00:00:16,500
+00:00:11,830 --> 00:00:16,500
 <i>the paint on the garage peeled
 another 1.2 millimeters,</i>
 
@@ -96,7 +96,7 @@ The house is yours.
 
 22
 00:01:00,000 --> 00:01:04,500
-<i>( Trumpets crescendo )</i>
+<i>( Trumpets climax triumphantly )</i>
 
 23
 00:01:09,100 --> 00:01:11,100
@@ -168,4 +168,129 @@ happily deranged ¶
 39
 00:01:56,900 --> 00:02:00,000
 ¶ Hey, Sandy, hey. ¶
+
+40
+00:02:02,391 --> 00:02:07,380
+<i>( Jangly rock guitar playing )</i>
+
+41
+00:02:08,729 --> 00:02:11,519
+It was what every kid dreams about.
+
+42
+00:02:11,805 --> 00:02:14,915
+Mom and dad were going away
+and giving us the house
+
+43
+00:02:14,940 --> 00:02:18,231
+for 35 unsupervised hours.
+
+44
+00:02:18,473 --> 00:02:24,537
+No parents, no babysitter,
+no rules except one.
+
+45
+00:02:24,920 --> 00:02:28,535
+Pete, your job is to protect the house
+and everything in it,
+
+46
+00:02:28,555 --> 00:02:31,155
+especially my most precious possessions.
+
+47
+00:02:31,310 --> 00:02:33,621
+Cherish them,
+love them,
+
+48
+00:02:33,647 --> 00:02:36,342
+but under no circumstances...
+I know, I know.
+
+49
+00:02:36,376 --> 00:02:40,722
+Don't touch, eat, or play with
+anything that has one of those on it.
+
+50
+00:02:40,747 --> 00:02:41,856
+<i>( Ominous trumpets crescendo )</i>
+
+51
+00:02:41,881 --> 00:02:44,284
+You're in charge.
+Think you can handle it, champ?
+
+52
+00:02:44,318 --> 00:02:45,405
+In my sleep.
+
+53
+00:02:45,447 --> 00:02:47,801
+Well, that about covers it.
+Missing you already!
+
+54
+00:02:47,837 --> 00:02:51,178
+I believe there's just
+one more little detail.
+
+55
+00:02:51,203 --> 00:02:52,553
+<i>( Angelic choral singing )</i>
+
+56
+00:02:52,578 --> 00:02:55,462
+They were more beautiful
+than I had imagined.
+
+57
+00:02:55,562 --> 00:02:58,972
+They were the keys to paridise.
+
+58
+00:02:58,991 --> 00:03:02,082
+<i>( Choral singing continues )</i>
+
+59
+00:03:02,107 --> 00:03:06,847
+Welp. We'll be leaving you as boys.
+When we come back, you'll be men.
+
+60
+00:03:06,961 --> 00:03:09,723
+Remember to change your underwear.
+Joyce! Let's go.
+
+61
+00:03:10,197 --> 00:03:11,897
+You have to give 'em
+your confidence,
+
+62
+00:03:12,192 --> 00:03:13,192
+your faith,
+
+63
+00:03:13,448 --> 00:03:14,448
+your trust.
+
+64
+00:03:15,595 --> 00:03:16,870
+I can't do it!
+
+65
+00:03:16,895 --> 00:03:18,331
+Oh-ho-ho my babies!
+
+66
+00:03:18,365 --> 00:03:19,239
+My babies!
+
+67
+00:03:19,266 --> 00:03:20,946
+Oh my precious ?lawn?!
 
