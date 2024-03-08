@@ -65,17 +65,17 @@ To reach that apex.
 
 14
 00:00:40,500 --> 00:00:41,400
-To climb... ( fading into background )
+To climb... <i>( fading into background )</i>
 
 15
 00:00:41,500 --> 00:00:46,000
 BIG PETE:
-As usual, we had no idea
-what dad was blammering on about.
+<i>As usual, we had no idea
+what dad was blammering on about.</i>
 
 16
 00:00:46,100 --> 00:00:47,800
-But, then...
+<i>But, then...</i>
 
 17
 00:00:48,000 --> 00:00:49,150
@@ -83,7 +83,7 @@ I guess what I'm trying to say is,
 
 18
 00:00:49,150 --> 00:00:51,600
-you're mother and I
+your mother and I
 are going away for the weekend.
 
 19
@@ -96,11 +96,11 @@ The house is yours.
 
 21
 00:00:55,900 --> 00:00:59,800
-( "is yours" continues echoing )
+<i>( "is yours" continues echoing )</i>
 
 22
 00:01:00,000 --> 00:01:04,500
-( Trumpets crescendo )
+<i>( Trumpets crescendo )</i>
 
 
 {\
