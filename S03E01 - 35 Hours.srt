@@ -1,14 +1,14 @@
 1
-00:00:00,500 --> 00:00:02,000
+00:00:00,133 --> 00:00:02,000
 <i>( Upbeat trumpet playing )</i>
 
 2
-00:00:02,000 --> 00:00:04,400
+00:00:02,033 --> 00:00:04,400
 BIG PETE:
 <i>The day started like every other.</i>
 
 3
-00:00:04,500 --> 00:00:07,600
+00:00:04,588 --> 00:00:07,600
 <i>The Earth rotated
 at 1,000 miles an hour,</i>
 
@@ -23,7 +23,7 @@ at exactly 7:15,</i>
 another 1.2 millimeters,</i>
 
 6
-00:00:16,700 --> 00:00:21,700
+00:00:16,646 --> 00:00:21,700
 <i>and Pete and I were hard at work
 meeting Dad's high car wash standards,</i>
 
@@ -38,25 +38,25 @@ Boys, we need to talk.
 9
 00:00:26,200 --> 00:00:28,900
 Uh we didn't do it.
-Here's a quarter, call my lawyer. 
+Here's a quarter, call my lawyer.
 
 10
-00:00:29,100 --> 00:00:31,800
+00:00:29,254 --> 00:00:31,800
 At ease.
 Pete. Pete.
 
 11
-00:00:31,900 --> 00:00:35,600
+00:00:31,995 --> 00:00:35,600
 Every man dreams of a chance to say
 what I'm gonna say to you.
 
 12
-00:00:35,700 --> 00:00:38,200
+00:00:35,685 --> 00:00:38,329
 A chance to see his boys
 become men.
 
 13
-00:00:38,400 --> 00:00:40,300
+00:00:38,522 --> 00:00:40,300
 To reach that apex.
 
 14
@@ -70,11 +70,11 @@ BIG PETE:
 what dad was blammering on about.</i>
 
 16
-00:00:46,100 --> 00:00:47,800
+00:00:46,229 --> 00:00:47,800
 <i>But, then...</i>
 
 17
-00:00:48,000 --> 00:00:49,150
+00:00:47,931 --> 00:00:49,150
 I guess what I'm trying to say is,
 
 18
@@ -87,7 +87,7 @@ are going away for the weekend.
 We're putting you in charge.
 
 20
-00:00:54,300 --> 00:00:55,900
+00:00:54,491 --> 00:00:55,900
 The house is yours.
 
 21
@@ -97,8 +97,6 @@ The house is yours.
 22
 00:01:00,000 --> 00:01:04,500
 <i>( Trumpets crescendo )</i>
-
-
 
 23
 00:01:09,100 --> 00:01:11,100
@@ -114,7 +112,7 @@ happily deranged ¶
 ¶ Can you settle to shoot me ¶
 
 26
-00:01:19,500 --> 00:01:22,0500
+00:01:19,500 --> 00:01:22,500
 ¶ Or have you picked your target yet? ¶
 
 27
@@ -136,7 +134,6 @@ happily deranged ¶
 31
 00:01:28,100 --> 00:01:30,000
 ¶ Hey, Sandy ¶
-
 
 32
 00:01:45,000 --> 00:01:48,000
@@ -171,3 +168,4 @@ happily deranged ¶
 39
 00:01:56,900 --> 00:02:00,000
 ¶ Hey, Sandy, hey. ¶
+
