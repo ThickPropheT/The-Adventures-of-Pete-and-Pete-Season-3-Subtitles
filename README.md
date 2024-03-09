@@ -4,7 +4,7 @@ The Adventures of Pete and Pete Season 3 Subtitles [EN-US]
 ## Completion
 |  Ep Nº |              Title              | hh:mm:ss,fff Complete | % Complete |
 |--------|---------------------------------|-----------------------|------------|
-| S03E01 | 35 Hours                        | 00:03:20,946          | 013.76%    |
+| S03E01 | 35 Hours                        | 00:03:46,313          | 015.49%    |
 | S03E02 | The Trouble With Teddy          | 00:00:00,000          | 000.00%    |
 | S03E03 | The Good, The Bad and The Lucky | 00:00:00,000          | 000.00%    |
 | S03E04 | Splashdown!                     | 00:00:00,000          | 000.00%    |
