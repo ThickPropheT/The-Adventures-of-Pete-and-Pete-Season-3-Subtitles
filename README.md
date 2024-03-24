@@ -19,7 +19,7 @@ The Adventures of Pete and Pete Season 3 Subtitles [EN-US]
 | S03E13 | Saturday                        | 00:00:00,000          | 000.00%    |
 
 ## Conventions
-Captions shall follow best practices as defined in [best practices below](#reference-material), except to follow patterns established in prior source material that deviates from best-practice conventions. The following sections codify best-practice deviations as provided by said source material as well as other preferred conventions not covered in the best-practice reference material.
+Captions shall follow best practices as defined in best-practice-references listed [below](#reference-material), except to follow patterns established in prior source material that deviates from best-practice conventions. The following sections codify best-practice deviations as provided by said source material as well as other preferred conventions not covered in the best-practice reference material.
 
 ### Timing
 - Caption `Start Time` & `Duration` shall appropriately match attack & cadence of lines spoken.
@@ -28,7 +28,7 @@ Captions shall follow best practices as defined in [best practices below](#refer
  
 - Captions shall avoid generating Warnings in Subtitle Edit.
   - Ignore Warnings where formatting characters (e.g. `<i>`, `<br/>`, etc.) unduly contribute to warning condition.
-  - Ignore Warnings where correction would violate other best practices (e.g. prefer readability and convention-adherent line-breaks to line-length violations).
+  - Ignore Warnings where correction would violate other best practices (i.e. prefer readability and convention-adherent line-breaks to line-length violations).
   - Closely consider & evaluate `Chars/sec` & `Duration` Warnings.
     - Exceptions to `Chars/sec` & `Duration` Warnings may include:
       - Common phrases that are easily recognizable and don't require a long dwell time.
