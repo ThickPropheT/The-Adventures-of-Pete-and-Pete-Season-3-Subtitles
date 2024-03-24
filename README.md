@@ -25,6 +25,16 @@ Captions shall follow best practices as defined in [best practices below](#refer
 - Caption `Start Time` & `Duration` shall appropriately match attack & cadence of lines spoken.
   - Captions accompanying fast paced or rapid-fire lines shall attempt to match the pace and rhythm of those lines.
   - Captions accompanying more casual or deliberated lines shall be allocated more "breathing-room" (i.e. earlier `Start Time`s, extended `Duration`s, and/or empty space between captions).
+ 
+- Captions shall avoid generating Warnings in Subtitle Edit.
+  - Ignore Warnings where formatting characters (e.g. <i>, <br/>, etc.) unduly contribute to warning conddition.
+  - Ignore Warnings where correction would violate other best practices (e.g. prefer readability and convention-adherent line-breaks to line-length violations).
+  - Closely consider & evaluate `Chars/sec` & `Duration` Warnings.
+    - Exceptions to `Chars/sec` & `Duration` Warnings may include:
+      - Common phrases that are easily recognizable and don't require a long dwell time.
+      - Captions that are repeats of recently spoken lines, such as song lyrics.
+      - Non-critical captions, such as sound effect or music notations.
+      - Very short phrases that violate the `1-second-Duration` convention by just a little bit.
 
 ### Formatting
 - Captions shall follow normal English punctuation rules.
