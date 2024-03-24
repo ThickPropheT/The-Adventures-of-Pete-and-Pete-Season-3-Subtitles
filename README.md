@@ -17,3 +17,6 @@ The Adventures of Pete and Pete Season 3 Subtitles [EN-US]
 | S03E11 | O' Christmas Pete               | 00:00:00,000          | 000.00%    |
 | S03E12 | Das Bus                         | 00:00:00,000          | 000.00%    |
 | S03E13 | Saturday                        | 00:00:00,000          | 000.00%    |
+
+## Contributing
+[Subtitle Edit](https://www.nikse.dk/subtitleedit)
