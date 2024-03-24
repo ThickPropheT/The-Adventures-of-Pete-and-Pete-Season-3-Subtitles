@@ -27,7 +27,7 @@ Captions shall follow best practices as defined in [best practices below](#refer
   - Captions accompanying more casual or deliberated lines shall be allocated more "breathing-room" (i.e. earlier `Start Time`s, extended `Duration`s, and/or empty space between captions).
  
 - Captions shall avoid generating Warnings in Subtitle Edit.
-  - Ignore Warnings where formatting characters (e.g. <i>, <br/>, etc.) unduly contribute to warning conddition.
+  - Ignore Warnings where formatting characters (e.g. `<i>`, `<br/>`, etc.) unduly contribute to warning condition.
   - Ignore Warnings where correction would violate other best practices (e.g. prefer readability and convention-adherent line-breaks to line-length violations).
   - Closely consider & evaluate `Chars/sec` & `Duration` Warnings.
     - Exceptions to `Chars/sec` & `Duration` Warnings may include:
