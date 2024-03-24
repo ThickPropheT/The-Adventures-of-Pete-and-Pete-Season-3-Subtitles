@@ -61,7 +61,7 @@ To reach that apex.
 
 14
 00:00:40,500 --> 00:00:41,400
-To climb... <i>( fading into background )</i>
+To climb -- <i>( fading into background )</i>
 
 15
 00:00:41,500 --> 00:00:46,000
@@ -207,7 +207,7 @@ love them,
 
 48
 00:02:33,647 --> 00:02:36,342
-but under no circumstances...
+but under no circumstances --
 I know, I know.
 
 49
@@ -244,12 +244,13 @@ one more little detail.
 
 56
 00:02:52,578 --> 00:02:55,462
-They were more beautiful
-than I had imagined.
+BIG PETE:
+<i>They were more beautiful
+than I had imagined.</i>
 
 57
 00:02:55,562 --> 00:02:58,972
-They were the keys to paridise.
+<i>They were the keys to paridise.</i>
 
 58
 00:02:58,991 --> 00:03:02,082
@@ -385,6 +386,6 @@ blaring Grunge Rock )</i>
 <i>( Grunge Rock continues blaring )</i>
 
 89
-00:04:24,130 --> 00:04:26,706
-This is gonna be good!
+00:04:24,130 --> 00:04:26,727
+ This is gonna be good!
 
